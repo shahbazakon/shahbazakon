@@ -1,6 +1,8 @@
+<div>
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohd Shahbaz </h1>
+ <img height= "400px" src="https://user-images.githubusercontent.com/57652434/123544706-1e540b00-d772-11eb-8d74-28947acc4595.png" />
+</div>
 
-<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 <h3 align="center">I'm always full of new ideas, and almost a little restless</h3>
 
 - 🤝 I’m working on some [Mini Projects](https://github.com/shahbazakon/Mini-Project.git)
@@ -9,7 +11,7 @@
 
 - 📝 UX/UI Portfolio [https://drive.google.com/file/d/1HeyC1g3NsyFroRicPVUEytsv8pf2Jw1c/view?usp=sharing](https://drive.google.com/file/d/1HeyC1g3NsyFroRicPVUEytsv8pf2Jw1c/view?usp=sharing)
 
-- 📫 How to reach me **shahbajakon@gmail.com**
+- 📫 How to reach me <img src="https://img.shields.io/badge/-shahbajakon.@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto&style=flat-square:shahbajakon.@gmail.com" />
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing](https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing)
 

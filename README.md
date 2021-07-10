@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohd Shahbaz </h1>
- <img height= "400px" src="https://user-images.githubusercontent.com/57652434/123544706-1e540b00-d772-11eb-8d74-28947acc4595.png" />
+ <center><img  src="https://user-images.githubusercontent.com/57652434/123544706-1e540b00-d772-11eb-8d74-28947acc4595.png"></center>
 </div>
 
 <h3 align="center">I'm always full of new ideas, and almost a little restless</h3>

@@ -3,8 +3,10 @@
  <center><img  src="https://user-images.githubusercontent.com/57652434/123544706-1e540b00-d772-11eb-8d74-28947acc4595.png"></center>
 </div>
 
-<h3 align="center">I'm always full of new ideas, and almost a little restless</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoid&color=C0C0C0&size=30&lines=Hey!+I'm+a+Flutter+Developer...;I'm+also+Python+Coder;I'm+always+full+of+new+ideas;and+almost+a+little+restless;)](https://git.io/typing-svg)
+
+ 
 - 🤝 I’m working on some [Mini Projects](https://github.com/shahbazakon/Mini-Project.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahbazakon](https://github.com/shahbazakon)
@@ -16,9 +18,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing](https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing)
 
 - ⚡ Fun fact **"If I can think, I can do... No matters it's possible or not."** 
-<br>
+ 
 
 ## 💻 My Tech Stack:-
+
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
 | 💻 **Technology** | 🚀 **Projects** |
@@ -48,7 +51,19 @@
   </p>
 
 <hr>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
 </p>
+<!-- Snake game -->
+<!-- 
+  <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+ -->
+<!-- Random gif -->
+<br>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />

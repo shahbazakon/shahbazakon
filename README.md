@@ -57,12 +57,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
 </p>
 <!-- Snake game -->
-<!-- 
-  <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
- -->
+
+
+
 <!-- Random gif -->
 <br>
 <br><br>

@@ -58,9 +58,5 @@
 </p>
 <!-- Snake game -->
 
-![snake gif](https://github.com/shahbazakon/shahbazakon/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/shahbazakon/shahbazakon/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Random gif -->
-<br>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />

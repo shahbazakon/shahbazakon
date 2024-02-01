@@ -3,12 +3,11 @@
   <img src="https://user-images.githubusercontent.com/57652434/123544706-1e540b00-d772-11eb-8d74-28947acc4595.png" alt="Profile Image">
 </div>
 
-<p align="center">
+<p align="center"">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Monoid&color=C0C0C0&size=30&lines=Hey!+I'm+Shahbaz+Qureshi...;Think+Different;Be+Uncommon;Stay+Focused;Accept+Yourself;Trust+Yourself;Stay+Focused;Dream+Big;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=C0C0C0&size=30&lines=Syntax+is+the+brush;logic+is+the+art;Code+your+masterpiece;" />
   </a>
 </p>
-
  
 - 🤝 I’m working on some [Mini Projects](https://github.com/shahbazakon/Mini-Project.git)
 

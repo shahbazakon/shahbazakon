@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/aaa11d08-a94d-47c9-b4e5-142cb0ba9a50" height="75px"> I'm Mohd Shahbaz </h1>
+  <h1 align="center">I'm Mohd Shahbaz <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/cb6becf2-9d7a-488d-99ce-c8f9e4d4461c" height="70px"> </h1>
   <img src="https://user-images.githubusercontent.com/57652434/123544706-1e540b00-d772-11eb-8d74-28947acc4595.png" alt="Profile Image">
 </div>
 

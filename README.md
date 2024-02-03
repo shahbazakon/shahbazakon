@@ -61,6 +61,9 @@
            <td>
               <a href="https://pub.dev" target="_blank"> <img src="https://pub.dev/static/hash-395ejna4/img/pub-dev-logo.svg" alt="Riverpod" height="30"/> </a>
             </td>
+           <td>
+              <a href="https://www.syncfusion.com" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/df16f757-1f18-4417-ba46-bcff1172a778" alt="Syncfusion" height="50"/> </a>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -73,29 +76,43 @@
           <td>
                 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
           </td>
+              <td><a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a></td>
           <td> 
                 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
            </td>
+           <td> 
+                <a href="https://developer.apple.com/ios" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/cecf4dee-5a1a-47a5-a0c9-d67b36092a5b" alt="ios" width="50" height="50"/> </a>
+           </td>
+          <td> 
+                <a href="https://firebase.google.com/brand-guidelines" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/6049cfb9-9c64-4b9e-81a0-111f3c5b9731" alt="Firebase" height="40"/> </a>
+           </td>
+            <td> 
+                <a href="https://mixpanel.com" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/23af407e-a809-42d4-a863-333239b6a03c" alt="Mixpannel" height="30"/> </a>
+           </td>
+          <td> 
+                <a href="https://www.postman.com/company/press-media" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/d3997de2-6a41-471e-a46a-20c8e72af8b0" alt="Postman" height="40"/> </a>
+           </td>
            <td>
-                <a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
+                <a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="40px"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
          </td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
+            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="40px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
+           <td><a href="https://apps.apple.com/us/app/xcode/"><img alt="Xcode" title="Android Studio" height="40px"
+                        src="https://github.com/shahbazakon/shahbazakon/assets/57652434/f1aa8281-ee39-49d1-8f06-b289028f1499" /></a></td>
            <td>
             <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
             </td>
             <td>
               <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
          </td>
-          <td><a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a></td>
             <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-            </td>        
-            <td><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+            </td>
+        </tr>
+        <tr>
+           <td><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
             </td>
             <td><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
             </td>
-        </tr>
-        <tr> 
          <td> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
             </td>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
@@ -110,8 +127,10 @@
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>            
             <td></a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-            </td>       
-            <td><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a></td>
+            </td> 
+  <td></a> <a href="https://www.figma.com" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2e281077-e869-4a0e-a1e7-3b20b6dfe7ed" alt="scikit_learn" height="40"/> </a>
+            </td> 
+            <td><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0b7ef0d9-bff7-4d1f-a79a-18bd3163d363" alt="xd" width="40" height="40"/> </a></td>
             <td><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></td>
         </tr>
     </tbody>
@@ -176,5 +195,8 @@
   28<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/d2d976e9-56b5-4d04-90d2-7ca843ed6eac" height="100px">
   29<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8a7d8c04-375d-4260-ab00-e16d9ee198af" height="100px">
 </ul>
+
+##
+![banner](https://github.com/shahbazakon/shahbazakon/assets/57652434/2b04b5ef-fc55-4735-b8f7-8c5e2174afca)
 
 

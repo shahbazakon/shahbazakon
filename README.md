@@ -1,12 +1,13 @@
 <div align="center">
-  <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohd Shahbaz</h1>
+  <h1><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/aaa11d08-a94d-47c9-b4e5-142cb0ba9a50" height="75px"> I'm Mohd Shahbaz </h1>
   <img src="https://user-images.githubusercontent.com/57652434/123544706-1e540b00-d772-11eb-8d74-28947acc4595.png" alt="Profile Image">
 </div>
 
-<p align="center"">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=C0C0C0&size=30&lines=Syntax+is+the+brush;logic+is+the+art;Code+your+masterpiece;" />
-  </a>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
+  <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/c0177661-7787-4fe2-a73d-7c4710cf850e" height="60px">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=monospace&color=C0C0C0&size=30&lines=Syntax+is+the+brush;logic+is+the+art;Code+your+masterpiece;"/>
 </p>
  
 - 🤝 I’m working on some [Mini Projects](https://github.com/shahbazakon/Mini-Project.git)
@@ -115,4 +116,38 @@
 <!-- Snake game -->
 
 ![snake gif](https://github.com/shahbazakon/shahbazakon/blob/output/github-contribution-grid-snake.svg)
+
+
+<ul>
+  1<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/4478513f-1d57-4d31-ac2d-6883179e6188" height="100px">
+  2<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/cb6becf2-9d7a-488d-99ce-c8f9e4d4461c" height="100px">
+  3<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/de305b15-43b6-4d5f-9a81-867c3e5eff50" height="100px">
+  4<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/3aef6398-49ce-4b16-bd71-fcb2d556e522" height="100px">
+  5<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/93cd2351-498f-4abe-b977-16f722f1a6c7" height="100px">
+  6<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/db54fc4f-7ff8-44c9-ab86-16cd4a13a197" height="100px">
+  7<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0d9dfde2-ba5e-4bca-95a6-9e31cac85018" height="100px">
+  8<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/278ed41b-2763-4b72-9f0b-6fc4d8ecba79" height="100px">
+  9<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a60c378d-a76a-465b-a669-92f9e9feb81e" height="100px">
+  10<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="100px">
+  11<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/c0177661-7787-4fe2-a73d-7c4710cf850e" height="100px">
+  12<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/aaa11d08-a94d-47c9-b4e5-142cb0ba9a50" height="100px">
+  13<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/86c83f4f-eb0a-40ee-9da9-1c73931cb0b5" height="100px">
+  14<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/5ac5d825-219d-403f-9c05-0cecdc328393" height="100px">
+  15<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/9a4ca7ba-bf35-42c1-bb2d-20a9ce0cd55f" height="100px">
+  16<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a37dd797-6ac3-42e9-940c-7779ca1b5e40" height="100px">
+  17<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/43ed8c7e-4a7b-425a-b0ae-b413bb86c3f8" height="100px">
+  18<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/31c96544-f4c3-4fa0-a3b0-e52eea9615a6" height="100px">
+  19<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bc7a20dd-66d2-41e7-a28b-3d87c42da565" height="100px">
+  20<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/28e86767-8bac-44af-8610-013ba60f6a00" height="100px">
+  21<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/76a26bbd-b290-45b8-b8f7-1d04c00cb9b9" height="100px">
+  22<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/c2567da6-0c0a-4bce-b2df-9d442e4cfd24" height="100px">
+  23<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/c3823804-8754-42da-8572-0fce0bd9203f" height="100px">
+  24<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8dcde947-b94d-41ed-8792-538ae41e2732" height="100px">
+  25<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/b9305289-7132-4a0c-b0e4-3b49c4a02e84" height="100px">
+  26<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/99ce47cd-383c-43fa-886b-fe8ced3a9b1d" height="100px">
+  27<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/725ae306-138a-4dda-9a5c-a7fcd795ee25" height="100px">
+  28<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/d2d976e9-56b5-4d04-90d2-7ca843ed6eac" height="100px">
+  29<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8a7d8c04-375d-4260-ab00-e16d9ee198af" height="100px">
+</ul>
+
 

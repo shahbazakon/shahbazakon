@@ -140,7 +140,6 @@
 <br>
 <h2 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
 <p align="center">
-    <img align="center" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px">
  <a href="https://www.linkedin.com/in/mohd-shahbaz/" target="blank">
   <img align="center" alt="Shahbaz's LinkedIn" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
@@ -149,7 +148,9 @@
  </a>
  <a href="https://www.facebook.com/shahbazakon.genius/" target="blank">
   <img align="center" alt="Shahbaz's Twitter" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
- </a> <br/>
+ </a> 
+   <img align="center" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px">
+<br/>
   </p>
 
 

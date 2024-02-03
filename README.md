@@ -21,6 +21,8 @@
 
 - 📝 UX/UI Portfolio [https://drive.google.com/file/d/1HeyC1g3NsyFroRicPVUEytsv8pf2Jw1c/view?usp=sharing](https://drive.google.com/file/d/1HeyC1g3NsyFroRicPVUEytsv8pf2Jw1c/view?usp=sharing)
 
+- :star::star::star::star::star:  [HackerRank](https://www.hackerrank.com/profile/Shahbaz_Akon) <br>
+
 - 📫 How to reach me <img src="https://img.shields.io/badge/-shahbajakon.@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto&style=flat-square:shahbajakon.@gmail.com" />
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing](https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing)
@@ -153,6 +155,48 @@
 <br/>
   </p>
 
+<!--
+  ### :link: &nbsp;Connect with me
+
+<p align="center">
+<a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/KevinPatel04"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:patelkvin04@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Jaydeep-Yadav"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.snapchat.com/add/badboy5299"><img alt="Bad Boy Snapchat" title="Jaydeep Yadav SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
+  <a href="https://facebook.com/killerboy.jy"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/bad_boy_official2"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:yadavjay374@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/jaydeep91"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="http://twitter.com/jaydeep__Yadav_"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/7d84e454-3e99-4e55-95bf-5888926e1a5e"><img alt="Qwiklabs" title="Jaydeep Yadav Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</p>
+-->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -195,6 +239,7 @@
   27<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/725ae306-138a-4dda-9a5c-a7fcd795ee25" height="100px">
   28<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/d2d976e9-56b5-4d04-90d2-7ca843ed6eac" height="100px">
   29<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8a7d8c04-375d-4260-ab00-e16d9ee198af" height="100px">
+  <img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </ul>
 
 ##

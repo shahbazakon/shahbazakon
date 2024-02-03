@@ -41,6 +41,29 @@
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 <br>
 
+## Core Skill <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
+
+<table align="center">
+    <tbody>
+        <tr> 
+            <td>
+              <a href="https://flutter.dev/multi-platform/mobile" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter" height="30"/> </a>
+            </td>
+            <td>
+              <a href="https://dart.dev" target="_blank"> <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="dart" height="30"/> </a>
+            </td>
+            <td>
+              <a href="https://github.com/felangel/bloc" target="_blank"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="Bloc" height="45"/> </a>
+            </td>
+           <td>
+              <a href="https://github.com/rrousselGit/riverpod" target="_blank"> <img src="https://riverpod.dev/img/full_logo.svg" alt="Riverpod" height="30"/> </a>
+            </td>
+           <td>
+              <a href="https://pub.dev" target="_blank"> <img src="https://pub.dev/static/hash-395ejna4/img/pub-dev-logo.svg" alt="Riverpod" height="30"/> </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Languages and Tools <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
 

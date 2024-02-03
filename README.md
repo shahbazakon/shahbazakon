@@ -4,11 +4,16 @@
 </div>
 
 
+ <br>
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
-  <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/c0177661-7787-4fe2-a73d-7c4710cf850e" height="60px">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=monospace&color=C0C0C0&size=30&lines=Syntax+is+the+brush;logic+is+the+art;Code+your+masterpiece;"/>
+  <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/c0177661-7787-4fe2-a73d-7c4710cf850e" height="70px">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Sofia+Sans&color=3c4c56&size=40&lines=Syntax+is+the+brush;logic+is+the+art;Code+your+masterpiece;"/>
 </p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 - 🤝 I’m working on some [Mini Projects](https://github.com/shahbazakon/Mini-Project.git)
 
@@ -35,8 +40,6 @@
 | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Resume-Builder](https://img.shields.io/static/v1?label=&message=Resume-Builder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Resume_Builder.git) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 <br>
-
-
 
 
 ## Languages and Tools <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
@@ -107,7 +110,8 @@
 
   </p>
 
-<hr>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />

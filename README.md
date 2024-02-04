@@ -1,40 +1,36 @@
+<!--Top Banner with Nanem-->
 <div align="center">
   <h1 align="center">I'm <a href="https://github.com/shahbazakon"> Mohd Shahbaz <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/cb6becf2-9d7a-488d-99ce-c8f9e4d4461c" height="70px"> </h1>
   <img src="https://user-images.githubusercontent.com/57652434/123544706-1e540b00-d772-11eb-8d74-28947acc4595.png" alt="Profile Image">
 </div>
+    
+<br>
 
-
- <br>
-
-
+<!--Running Text-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
   <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/c0177661-7787-4fe2-a73d-7c4710cf850e" height="70px">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Sofia+Sans&color=3c4c56&size=40&lines=Syntax+is+the+brush;logic+is+the+art;Code+your+masterpiece;"/>
 </p>
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+ <!--Sub Text List-->
+ # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/de305b15-43b6-4d5f-9a81-867c3e5eff50" height="60px"> About
 - 🤝 I’m working on some [Mini Projects](https://github.com/shahbazakon/Mini-Project.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/shahbazakon](https://github.com/shahbazakon)
-
 - 📝 UX/UI Portfolio [https://drive.google.com/file/d/1HeyC1g3NsyFroRicPVUEytsv8pf2Jw1c/view?usp=sharing](https://drive.google.com/file/d/1HeyC1g3NsyFroRicPVUEytsv8pf2Jw1c/view?usp=sharing)
-
 - :star::star::star::star::star:  [HackerRank](https://www.hackerrank.com/profile/Shahbaz_Akon) <br>
-
 - 📫 How to reach me <img src="https://img.shields.io/badge/-shahbajakon.@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto&style=flat-square:shahbajakon.@gmail.com" />
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing](https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing)
-
 - ⚡ Fun fact **"If I can think, I can do... No matters it's possible or not."** 
- 
  <br>
 
-## My Tech Stack:-
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--Projects-->
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-
+# <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0d9dfde2-ba5e-4bca-95a6-9e31cac85018" height="60px"> My Tech Stack
+## Projects:-
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Notepad](https://img.shields.io/static/v1?label=&message=Notepad&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Notepad.py) [![Tic-Tac-Game](https://img.shields.io/static/v1?label=&message=Tic-Tac-Game&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Tic-Tac.py) [![YouTubeDownloder](https://img.shields.io/static/v1?label=&message=YouTube-Downloder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/YouTubeDownloder.py) [![AudioBook](https://img.shields.io/static/v1?label=&message=Audiobook&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/AudioBook.py) [![WhatsApp-Automate](https://img.shields.io/static/v1?label=&message=WhatsApp-Automate&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/WhatsAppMsg.py) [![GurssTheNumberGame](https://img.shields.io/static/v1?label=&message=Guess-The-Number&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/GuessTheNumber.py) |
@@ -43,6 +39,7 @@
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 <br>
 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## Core Skill <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
 
 <table align="center">
@@ -69,6 +66,7 @@
         </tr>
     </tbody>
 </table>
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## Languages and Tools <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
 
@@ -137,8 +135,7 @@
         </tr>
     </tbody>
 </table>
-
-
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
 <h2 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
 <p align="center">
@@ -154,6 +151,8 @@
    <img align="center" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px">
 <br/>
   </p>
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--
   ### :link: &nbsp;Connect with me
@@ -199,7 +198,7 @@
 -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
@@ -242,7 +241,7 @@
   <img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </ul>
 
-##
-![banner](https://github.com/shahbazakon/shahbazakon/assets/57652434/2b04b5ef-fc55-4735-b8f7-8c5e2174afca)
+![banner](https://github.com/shahbazakon/shahbazakon/assets/57652434/1e74f0c0-4dc6-4088-b10f-015d4b3b8416)
+<hr>
 
 

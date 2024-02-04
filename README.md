@@ -17,26 +17,30 @@
 
  <!--Sub Text List-->
  # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/de305b15-43b6-4d5f-9a81-867c3e5eff50" height="60px"> About
-- 🤝 I’m working on some [Mini Projects](https://github.com/shahbazakon/Mini-Project.git)
-- 👨‍💻 All of my projects are available at [https://github.com/shahbazakon](https://github.com/shahbazakon)
-- 📝 UX/UI Portfolio [https://drive.google.com/file/d/1HeyC1g3NsyFroRicPVUEytsv8pf2Jw1c/view?usp=sharing](https://drive.google.com/file/d/1HeyC1g3NsyFroRicPVUEytsv8pf2Jw1c/view?usp=sharing)
-- :star::star::star::star::star:  [HackerRank](https://www.hackerrank.com/profile/Shahbaz_Akon) <br>
-- 📫 How to reach me <img src="https://img.shields.io/badge/-shahbajakon.@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto&style=flat-square:shahbajakon.@gmail.com" />
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing](https://drive.google.com/file/d/1XRpwiKPKOhVVfZDPNHae3MX3fDD73wBY/view?usp=sharing)
-- ⚡ Fun fact **"If I can think, I can do... No matters it's possible or not."** 
+
+ I am a dedicated **Flutter developer** with experience in creating robust applications for both **iOS** and **Android** platforms. Proficient in Dart, I have successfully developed a variety of applications, showcasing my commitment to continuous learning. Skilled in managing multiple projects simultaneously, I possess strong analytical and problem-solving abilities, and I can work independently with minimal supervision. My expertise extends to UX/UI design, content creation, and photography.
+
+**Key Points:**
+* ☑ Experienced Flutter Developer (Android & iOS)
+* ☑ Proficient in Dart, Firebase, and various technologies
+* ☑ Skilled in managing multiple projects with strong problem-solving abilities
+* ☑ Background in UX/UI design, content creation, and photography
+* ☑ :star::star::star::star::star: [HackerRank](https://www.hackerrank.com/profile/Shahbaz_Akon) on compatitave programmin along with 30 days coding challange 
+* ⚡ Fun fact **"If I can think, I can do... No matters it's possible or not."** 
  <br>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--Projects-->
 
 # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0d9dfde2-ba5e-4bca-95a6-9e31cac85018" height="60px"> My Tech Stack
-## Projects:-
+## Projects :
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Notepad](https://img.shields.io/static/v1?label=&message=Notepad&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Notepad.py) [![Tic-Tac-Game](https://img.shields.io/static/v1?label=&message=Tic-Tac-Game&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Tic-Tac.py) [![YouTubeDownloder](https://img.shields.io/static/v1?label=&message=YouTube-Downloder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/YouTubeDownloder.py) [![AudioBook](https://img.shields.io/static/v1?label=&message=Audiobook&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/AudioBook.py) [![WhatsApp-Automate](https://img.shields.io/static/v1?label=&message=WhatsApp-Automate&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/WhatsAppMsg.py) [![GurssTheNumberGame](https://img.shields.io/static/v1?label=&message=Guess-The-Number&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/GuessTheNumber.py) |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Handlebars](https://img.shields.io/static/v1?label=&message=CSS&color=00aced&logo=CSS3&logoColor=FFFFFF)](https://handlebarsjs.com/guide/) [![CSS](https://img.shields.io/static/v1?label=&message=Handlebars&color=8B4513&logo=Handlebars&logoColor=FFFFFF)]() [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square)]() [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square)](https://docs.mongodb.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)| [![ComCod](https://img.shields.io/static/v1?label=&message=ComCod_E-Learning_Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Project-Comcod.git) |
 | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Resume-Builder](https://img.shields.io/static/v1?label=&message=Resume-Builder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Resume_Builder.git) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
 <br>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -46,69 +50,60 @@
     <tbody>
         <tr> 
             <td>
-              <a href="https://flutter.dev/multi-platform/mobile" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter" height="30"/> </a>
+                <a href="https://flutter.dev/multi-platform/mobile" target="_blank">
+                    <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter" height="30"/>
+                </a>
             </td>
             <td>
-              <a href="https://dart.dev" target="_blank"> <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="dart" height="30"/> </a>
+                <a href="https://dart.dev" target="_blank">
+                    <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="dart" height="30"/>
+                </a>
             </td>
             <td>
-              <a href="https://github.com/felangel/bloc" target="_blank"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="Bloc" height="45"/> </a>
+                <a href="https://github.com/felangel/bloc" target="_blank">
+                    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="Bloc" height="45"/>
+                </a>
             </td>
-           <td>
-              <a href="https://github.com/rrousselGit/riverpod" target="_blank"> <img src="https://riverpod.dev/img/full_logo.svg" alt="Riverpod" height="30"/> </a>
+            <td>
+                <a href="https://github.com/rrousselGit/riverpod" target="_blank">
+                    <img src="https://riverpod.dev/img/full_logo.svg" alt="Riverpod" height="30"/>
+                </a>
             </td>
-           <td>
-              <a href="https://pub.dev" target="_blank"> <img src="https://pub.dev/static/hash-395ejna4/img/pub-dev-logo.svg" alt="Riverpod" height="30"/> </a>
+            <td>
+                <a href="https://pub.dev" target="_blank">
+                    <img src="https://pub.dev/static/hash-395ejna4/img/pub-dev-logo.svg" alt="Riverpod" height="30"/>
+                </a>
             </td>
-           <td>
-              <a href="https://www.syncfusion.com" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/df16f757-1f18-4417-ba46-bcff1172a778" alt="Syncfusion" height="50"/> </a>
+            <td>
+                <a href="https://www.syncfusion.com" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/df16f757-1f18-4417-ba46-bcff1172a778" alt="Syncfusion" height="50"/>
+                </a>
             </td>
         </tr>
     </tbody>
 </table>
+
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-## Languages and Tools <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
+## Languages and Framework <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
 
 <table align="center">
     <tbody>
         <tr>
-          <td>
-                <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-          </td>
-              <td><a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a></td>
-          <td> 
-                <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-           </td>
-           <td> 
-                <a href="https://developer.apple.com/ios" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/cecf4dee-5a1a-47a5-a0c9-d67b36092a5b" alt="ios" width="50" height="50"/> </a>
-           </td>
-          <td> 
-                <a href="https://firebase.google.com/brand-guidelines" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/6049cfb9-9c64-4b9e-81a0-111f3c5b9731" alt="Firebase" height="40"/> </a>
-           </td>
-            <td> 
-                <a href="https://mixpanel.com" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/23af407e-a809-42d4-a863-333239b6a03c" alt="Mixpannel" height="30"/> </a>
-           </td>
-          <td> 
-                <a href="https://www.postman.com/company/press-media" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/d3997de2-6a41-471e-a46a-20c8e72af8b0" alt="Postman" height="40"/> </a>
-           </td>
-           <td>
-                <a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="40px"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
-         </td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="40px"
-                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-           <td><a href="https://apps.apple.com/us/app/xcode/"><img alt="Xcode" title="Android Studio" height="40px"
-                        src="https://github.com/shahbazakon/shahbazakon/assets/57652434/f1aa8281-ee39-49d1-8f06-b289028f1499" /></a></td>
-           <td>
-            <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-            </td>
-            <td>
-              <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-         </td>
-            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-            </td>
+            <td><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a></td>
+            <td><a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a></td>
+            <td><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
+            <td><a href="https://developer.apple.com/ios" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/cecf4dee-5a1a-47a5-a0c9-d67b36092a5b" alt="ios" width="50" height="50"/></a></td>
+          <td></a><a href="#" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/04ec1bf4-f609-45ff-ac2e-769af4892edd" alt="GraphQL" width="40" height="40"/></a>
+<td></a><a href="#" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/db6bba74-0be4-43ef-a4b6-9d0ac3a23cf8" alt="RestAPI" height="40"/></a>
+<td></a><a href="#" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e92c161d-a2c8-4d85-b6ea-b0b0c465c6e0" alt="Json" width="40" height="40"/></a>
+            <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+          <td><a href="#" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/ef03c351-90b6-4edd-abfd-028c76733fb0" alt="TkInter" width="40" height="40"/></a></td>
         </tr>
         <tr>
+              <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+          <td></a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+           <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
            <td><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
             </td>
             <td><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -121,36 +116,60 @@
             <td><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
             </td>
             <td><a href<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></td>
-            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
-                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>    
-            <td><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></td>            
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" /></a>
-            </td>            
-            <td></a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-            </td> 
-  <td></a> <a href="https://www.figma.com" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2e281077-e869-4a0e-a1e7-3b20b6dfe7ed" alt="scikit_learn" height="40"/> </a>
-            </td> 
-            <td><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0b7ef0d9-bff7-4d1f-a79a-18bd3163d363" alt="xd" width="40" height="40"/> </a></td>
-            <td><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></td>
         </tr>
     </tbody>
 </table>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+## Tools <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
+
+<table align="center">
+    <tbody>
+        <tr>
+            <td><a href="https://firebase.google.com/brand-guidelines" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/6049cfb9-9c64-4b9e-81a0-111f3c5b9731" alt="Firebase" height="40"/></a></td>
+            <td><a href="https://mixpanel.com" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/23af407e-a809-42d4-a863-333239b6a03c" alt="Mixpannel" height="30"/></a></td>
+            <td><a href="https://www.postman.com/company/press-media" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/d3997de2-6a41-471e-a46a-20c8e72af8b0" alt="Postman" height="40"/></a></td>
+            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
+            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="40px" src="https://i.imgur.com/6nJGNMN.png" /></a></td>
+            <td><a href="https://apps.apple.com/us/app/xcode/"><img alt="Xcode" title="Android Studio" height="40px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/f1aa8281-ee39-49d1-8f06-b289028f1499" /></a></td>
+          <td><a href="#" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/3919b168-e2ce-4e65-95bf-76413c986610" alt="PyCharm" width="40" height="40"/></a></td>
+<td><a href="#" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/b3802347-3822-4818-9bb6-0c271697fa1f" alt="Intelij" width="40" height="40"/></a></td>
+<td><a href="#" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fdd5d2d4-849d-4e26-a6b6-7cd05b899f66" alt="Eclips" width="40" height="40"/></a></td>
+        </tr>
+        <tr>
+           <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
+                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>    
+            <td><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></td>            
+            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" /></a>
+            </td>            
+         
+  <td></a> <a href="https://www.figma.com" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2e281077-e869-4a0e-a1e7-3b20b6dfe7ed" alt="scikit_learn" height="40"/> </a>
+            </td> 
+            <td><a href="#" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/9756b254-8b16-4cfa-9946-af0833156ddb" alt="canva" width="40" height="40"/></a></td>
+<td><a href="#" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/b4b007be-fef9-458f-8090-44e111a58c31" alt="MicroSoftDesign" width="40" height="40"/></a></td>
+            <td><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0b7ef0d9-bff7-4d1f-a79a-18bd3163d363" alt="xd" width="40" height="40"/> </a></td>
+            <td><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></td>        
+<td><a href="#" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bb87345d-f1a8-4095-b972-1df0d19908af" alt="Primiere" width="40" height="40"/></a></td>
+        </tr>
+    </tbody>
+</table>
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
 <h2 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
 <p align="center">
- <a href="https://www.linkedin.com/in/mohd-shahbaz/" target="blank">
-  <img align="center" alt="Shahbaz's LinkedIn" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.instagram.com/shahbaz_akon/" target="blank">
-  <img align="center" alt="Shahbaz's Instagram" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.facebook.com/shahbazakon.genius/" target="blank">
-  <img align="center" alt="Shahbaz's Twitter" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
- </a> 
-   <img align="center" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px">
+  <a href="https://www.linkedin.com/in/mohd-shahbaz/" target="blank">
+    <img align="center" alt="Shahbaz's LinkedIn" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  </a>
+  <a href="https://www.instagram.com/shahbaz_akon/" target="blank">
+    <img align="center" alt="Shahbaz's Instagram" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+  </a>
+  <a href="https://www.facebook.com/shahbazakon.genius/" target="blank">
+    <img align="center" alt="Shahbaz's Twitter" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a> 
+  <img align="center" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px">
+</p>
 <br/>
-  </p>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 

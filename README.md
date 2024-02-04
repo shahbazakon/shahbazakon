@@ -111,12 +111,12 @@
             </td>
          <td> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
             </td>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
+            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="40px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
-            <td><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+            <td><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a>
             </td>
-            <td><a href<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></td>
+            <td><a href<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> </a></td>
         </tr>
     </tbody>
 </table>
@@ -139,10 +139,10 @@
 <td><a href="#" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fdd5d2d4-849d-4e26-a6b6-7cd05b899f66" alt="Eclips" width="40" height="40"/></a></td>
         </tr>
         <tr>
-           <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
+           <td><a href="#"><img alt="Sheets" title="Sheets" height="40px"
                         src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>    
             <td><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></td>            
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png" /></a>
+            <td><a href="#"><img alt="GitHub" title="GitHub" height="40px" src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>            
          
   <td></a> <a href="https://www.figma.com" target="_blank"> <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2e281077-e869-4a0e-a1e7-3b20b6dfe7ed" alt="scikit_learn" height="40"/> </a>

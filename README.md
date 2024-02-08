@@ -13,9 +13,9 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Sofia+Sans&color=3c4c56&size=40&lines=Syntax+is+the+brush;logic+is+the+art;Code+your+masterpiece;"/>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
- <!--Sub Text List-->
+<!--About-->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
  # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/de305b15-43b6-4d5f-9a81-867c3e5eff50" height="60px"> About
 
  I am a dedicated **Flutter developer** with experience in creating robust applications for both **iOS** and **Android** platforms. Proficient in Dart, I have successfully developed a variety of applications, showcasing my commitment to continuous learning. Skilled in managing multiple projects simultaneously, I possess strong analytical and problem-solving abilities, and I can work independently with minimal supervision. My expertise extends to UX/UI design, content creation, and photography.
@@ -30,11 +30,52 @@
  <br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--Projects-->
 
+<!--My Tech Stack-->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0d9dfde2-ba5e-4bca-95a6-9e31cac85018" height="60px"> My Tech Stack
-## Projects :
+
+## Live Projects :
+
+<table align="center">
+    <tbody>
+        <tr> 
+            <td>
+               <h4 align="center" >Hoxton Capital</h4>
+            </td>
+          <td>
+          </td>
+            <td>
+                <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bab0b964-a2d6-4ef3-a15b-3c4671039e91" alt="Flutter" height="50"/>
+                </a>
+            </td>
+          </tr>
+      <tr>
+            <td>
+               <h4 align="center" >Vizitor</h4>
+            </td>
+            <td>
+                <a href="https://play.google.com/store/apps/details?id=com.vizitor.app" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2b30bbbd-cdc0-4d41-a5dc-73ce57737f5f" alt="dart" height="50"/>
+                </a>
+            </td>
+        </tr>
+          <tr>
+            <td>
+               <h4 align="center" >Vizitor Pass</h4>
+            </td>
+            <td>
+                <a href="https://play.google.com/store/apps/details?id=com.vizitor.pass" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/28692673-71c5-4c8d-b9ee-842b16dfd8ed" alt="Bloc" height="50"/>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+## Presonal Projects :
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Notepad](https://img.shields.io/static/v1?label=&message=Notepad&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Notepad.py) [![Tic-Tac-Game](https://img.shields.io/static/v1?label=&message=Tic-Tac-Game&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Tic-Tac.py) [![YouTubeDownloder](https://img.shields.io/static/v1?label=&message=YouTube-Downloder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/YouTubeDownloder.py) [![AudioBook](https://img.shields.io/static/v1?label=&message=Audiobook&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/AudioBook.py) [![WhatsApp-Automate](https://img.shields.io/static/v1?label=&message=WhatsApp-Automate&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/WhatsAppMsg.py) [![GurssTheNumberGame](https://img.shields.io/static/v1?label=&message=Guess-The-Number&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/GuessTheNumber.py) |
@@ -42,7 +83,7 @@
 | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Resume-Builder](https://img.shields.io/static/v1?label=&message=Resume-Builder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Resume_Builder.git) |
 
 <br>
-
+<!--Core Skill-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## Core Skill <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
 
@@ -84,8 +125,8 @@
 </table>
 <br>
 
+<!--Languages and Framework-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
 ## Languages and Framework <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
 
 <table align="center">
@@ -121,8 +162,9 @@
     </tbody>
 </table>
 <br>
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<!--Tools-->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## Tools <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
 
 <table align="center">
@@ -156,9 +198,9 @@
     </tbody>
 </table>
 <br>
+
+<!--Connects with me-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
 # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px"> Connect with me <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> :
 <p align="center">
   <a href="" target="blank">
@@ -172,6 +214,20 @@
   </a> 
 </p>
 <br/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
+</p>
+<!-- Snake game -->
+<div align="center">
+  
+![snake gif](https://github.com/shahbazakon/shahbazakon/blob/output/github-contribution-grid-snake.svg)  
+</div>
+
+![banner](https://github.com/shahbazakon/shahbazakon/assets/57652434/1e74f0c0-4dc6-4088-b10f-015d4b3b8416)
+
+
+
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--
@@ -194,17 +250,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 -->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
-</p>
-<!-- Snake game -->
-<div align="center">
-  
-![snake gif](https://github.com/shahbazakon/shahbazakon/blob/output/github-contribution-grid-snake.svg)  
-</div>
 
-![banner](https://github.com/shahbazakon/shahbazakon/assets/57652434/1e74f0c0-4dc6-4088-b10f-015d4b3b8416)
 
 <!--
 <ul>

@@ -21,11 +21,11 @@
  I am a dedicated **Flutter developer** with experience in creating robust applications for both **iOS** and **Android** platforms. Proficient in Dart, I have successfully developed a variety of applications, showcasing my commitment to continuous learning. Skilled in managing multiple projects simultaneously, I possess strong analytical and problem-solving abilities, and I can work independently with minimal supervision. My expertise extends to UX/UI design, content creation, and photography.
 
 **Key Points:**
-* ☑ Experienced Flutter Developer (Android & iOS)
+* ☑️: Experienced Flutter Developer (Android & iOS)
 * ☑ Proficient in Dart, Firebase, and various technologies
 * ☑ Skilled in managing multiple projects with strong problem-solving abilities
 * ☑ Background in UX/UI design, content creation, and photography
-* ☑ :star::star::star::star::star: [HackerRank](https://www.hackerrank.com/profile/Shahbaz_Akon) on compatitave programmin along with 30 days coding challange 
+* ☑ ⭐⭐⭐⭐⭐ [HackerRank](https://www.hackerrank.com/profile/Shahbaz_Akon) on compatitave programmin along with 30 days coding challange 
 * ⚡ Fun fact **"If I can think, I can do... No matters it's possible or not."** 
  <br>
 
@@ -43,8 +43,6 @@
             <td>
                <h4 align="center" >Hoxton Capital</h4>
             </td>
-          <td>
-          </td>
             <td>
                 <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank">
                     <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bab0b964-a2d6-4ef3-a15b-3c4671039e91" alt="Flutter" height="50"/>
@@ -85,6 +83,7 @@
 <br>
 <!--Core Skill-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 ## Core Skill <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
 
 <table align="center">

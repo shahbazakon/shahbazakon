@@ -39,36 +39,24 @@
 
 <table align="center">
     <tbody>
-        <tr> 
-            <td>
-               <h4 align="center" >Hoxton Capital</h4>
-            </td>
-            <td>
+            <td align="center" width="150">
                 <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank">
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bab0b964-a2d6-4ef3-a15b-3c4671039e91" alt="Flutter" height="50"/>
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bab0b964-a2d6-4ef3-a15b-3c4671039e91" alt="Flutter" height="60"/>
                 </a>
+                     <p align="center" >Hoxton Capital</p>
             </td>
-          </tr>
-      <tr>
-            <td>
-               <h4 align="center" >Vizitor</h4>
-            </td>
-            <td>
+        <td align="center" width="150">
                 <a href="https://play.google.com/store/apps/details?id=com.vizitor.app" target="_blank">
                     <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2b30bbbd-cdc0-4d41-a5dc-73ce57737f5f" alt="dart" height="50"/>
                 </a>
+                 <p align="center" >Vizitor</p>
             </td>
-        </tr>
-          <tr>
-            <td>
-               <h4 align="center" >Vizitor Pass</h4>
-            </td>
-            <td>
+            <td align="center" width="150">
                 <a href="https://play.google.com/store/apps/details?id=com.vizitor.pass" target="_blank">
                     <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/28692673-71c5-4c8d-b9ee-842b16dfd8ed" alt="Bloc" height="50"/>
                 </a>
+                      <p align="center" >Vizitor Pass</p>
             </td>
-        </tr>
     </tbody>
 </table>
 <br>

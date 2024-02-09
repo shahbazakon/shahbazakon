@@ -64,6 +64,13 @@
                 </a>
                       <p align="center" >HP Pay</p>
             </td>
+     </td>
+            <td align="center" width="150">
+                <a href="" >
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e0b73923-e8df-41e3-8968-304b116b8d77" alt="Find Me" height="50"/>
+                </a>
+                      <p align="center" >Find Me</p>
+            </td>
     </tbody>
 </table>
 <br>

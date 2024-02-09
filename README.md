@@ -18,7 +18,7 @@
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
  # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/de305b15-43b6-4d5f-9a81-867c3e5eff50" height="60px"> About
 
- I am a dedicated **Flutter developer** with experience in creating robust applications for both **iOS** and **Android** platforms. Proficient in Dart, I have successfully developed a variety of applications, showcasing my commitment to continuous learning. Skilled in managing multiple projects simultaneously, I possess strong analytical and problem-solving abilities, and I can work independently with minimal supervision. My expertise extends to UX/UI design, content creation, and photography.
+ I am a dedicated **[Flutter developer](https://github.com/flutter/flutter)** with experience in creating robust applications for both **iOS** and **Android** platforms. Proficient in Dart, I have successfully developed a variety of applications, showcasing my commitment to continuous learning. Skilled in managing multiple projects simultaneously, I possess strong analytical and problem-solving abilities, and I can work independently with minimal supervision. My expertise extends to UX/UI design, content creation, and photography.
 
 **Key Points:**
 * ☑️ Experienced Flutter Developer (Android & iOS)
@@ -93,7 +93,7 @@
     <tbody>
         <tr> 
             <td>
-                <a href="https://flutter.dev/multi-platform/mobile" target="_blank">
+                <a href="https://github.com/flutter/flutter" target="_blank">
                     <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter" height="30"/>
                 </a>
             </td>
@@ -134,7 +134,7 @@
 <table align="center">
     <tbody>
         <tr>
-            <td><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a></td>
+            <td><a href="https://github.com/flutter/flutter" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a></td>
             <td><a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a></td>
             <td><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
             <td><a href="https://developer.apple.com/ios" target="_blank"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/cecf4dee-5a1a-47a5-a0c9-d67b36092a5b" alt="ios" width="50" height="50"/></a></td>

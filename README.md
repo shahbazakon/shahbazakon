@@ -21,7 +21,7 @@
  I am a dedicated **Flutter developer** with experience in creating robust applications for both **iOS** and **Android** platforms. Proficient in Dart, I have successfully developed a variety of applications, showcasing my commitment to continuous learning. Skilled in managing multiple projects simultaneously, I possess strong analytical and problem-solving abilities, and I can work independently with minimal supervision. My expertise extends to UX/UI design, content creation, and photography.
 
 **Key Points:**
-* ☑️: Experienced Flutter Developer (Android & iOS)
+* ☑️ Experienced Flutter Developer (Android & iOS)
 * ☑ Proficient in Dart, Firebase, and various technologies
 * ☑ Skilled in managing multiple projects with strong problem-solving abilities
 * ☑ Background in UX/UI design, content creation, and photography
@@ -57,6 +57,13 @@
                 </a>
                       <p align="center" >Vizitor Pass</p>
             </td>
+            </td>
+            <td align="center" width="150">
+                <a href="" >
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/38f39c57-edbe-47e3-a431-2590310822cb" alt="HP Pay" height="50"/>
+                </a>
+                      <p align="center" >HP Pay</p>
+            </td>
     </tbody>
 </table>
 <br>
@@ -69,6 +76,7 @@
 | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Resume-Builder](https://img.shields.io/static/v1?label=&message=Resume-Builder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Resume_Builder.git) |
 
 <br>
+
 <!--Core Skill-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 

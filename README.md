@@ -202,6 +202,16 @@
 <br>
 
 
+## ToolKits :
+
+<div align="center">
+  
+<a  href="https://github.com/shahbazakon/Flutter-360-ToolKit-1.0"><img src="https://img.shields.io/badge/1.0-blue?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=%23000000"/></a>
+<a href="https://github.com/shahbazakon/FLutter-360-Toolkit-2.0"><img src="https://img.shields.io/badge/2.0-%232E9FFF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
+<a href="https://github.com/shahbazakon/Flutter-ToolKit-3.0"><img src="https://img.shields.io/badge/3.0-%230080FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
+<a href="https://github.com/shahbazakon/iOS-App-Toolkit"><img src="https://img.shields.io/badge/iOS-%234574E0?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=iOS%20ToolKit&labelColor=black"/></a>
+</div>
+
 <!--Connects with me-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px"> Connect with me <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> :
@@ -236,8 +246,9 @@
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--
+
 <p align="center">
+
 
 <a href="https://www.linkedin.com/in/mohd-shahbaz"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:shahbazshahzadqureshi@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -254,7 +265,7 @@
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
--->
+
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 

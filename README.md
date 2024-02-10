@@ -31,59 +31,6 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<!--My Tech Stack-->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-# <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0d9dfde2-ba5e-4bca-95a6-9e31cac85018" height="60px"> My Tech Stack
-
-## Live Projects :
-
-<table align="center">
-    <tbody>
-            <td align="center" width="150">
-                <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank">
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bab0b964-a2d6-4ef3-a15b-3c4671039e91" alt="Flutter" height="60"/>
-                </a>
-                     <p align="center" >Hoxton Capital</p>
-            </td>
-        <td align="center" width="150">
-                <a href="https://play.google.com/store/apps/details?id=com.vizitor.app" target="_blank">
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2b30bbbd-cdc0-4d41-a5dc-73ce57737f5f" alt="dart" height="50"/>
-                </a>
-                 <p align="center" >Vizitor</p>
-            </td>
-            <td align="center" width="150">
-                <a href="https://play.google.com/store/apps/details?id=com.vizitor.pass" target="_blank">
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/28692673-71c5-4c8d-b9ee-842b16dfd8ed" alt="Bloc" height="50"/>
-                </a>
-                      <p align="center" >Vizitor Pass</p>
-            </td>
-            </td>
-            <td align="center" width="150">
-                <a href="" >
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/38f39c57-edbe-47e3-a431-2590310822cb" alt="HP Pay" height="50"/>
-                </a>
-                      <p align="center" >HP Pay</p>
-            </td>
-     </td>
-            <td align="center" width="150">
-                <a href="" >
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e0b73923-e8df-41e3-8968-304b116b8d77" alt="Find Me" height="50"/>
-                </a>
-                      <p align="center" >Find Me</p>
-            </td>
-    </tbody>
-</table>
-<br>
-
-## Presonal Projects :
-| 💻 **Technology** | 🚀 **Projects** |
-|-|-|
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Notepad](https://img.shields.io/static/v1?label=&message=Notepad&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Notepad.py) [![Tic-Tac-Game](https://img.shields.io/static/v1?label=&message=Tic-Tac-Game&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Tic-Tac.py) [![YouTubeDownloder](https://img.shields.io/static/v1?label=&message=YouTube-Downloder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/YouTubeDownloder.py) [![AudioBook](https://img.shields.io/static/v1?label=&message=Audiobook&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/AudioBook.py) [![WhatsApp-Automate](https://img.shields.io/static/v1?label=&message=WhatsApp-Automate&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/WhatsAppMsg.py) [![GurssTheNumberGame](https://img.shields.io/static/v1?label=&message=Guess-The-Number&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/GuessTheNumber.py) |
-| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Handlebars](https://img.shields.io/static/v1?label=&message=CSS&color=00aced&logo=CSS3&logoColor=FFFFFF)](https://handlebarsjs.com/guide/) [![CSS](https://img.shields.io/static/v1?label=&message=Handlebars&color=8B4513&logo=Handlebars&logoColor=FFFFFF)]() [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square)]() [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square)](https://docs.mongodb.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)| [![ComCod](https://img.shields.io/static/v1?label=&message=ComCod_E-Learning_Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Project-Comcod.git) |
-| [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Resume-Builder](https://img.shields.io/static/v1?label=&message=Resume-Builder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Resume_Builder.git) |
-
-<br>
-
 <!--Core Skill-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -200,6 +147,60 @@
     </tbody>
 </table>
 <br>
+
+<!--My Tech Stack-->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+# <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0d9dfde2-ba5e-4bca-95a6-9e31cac85018" height="60px"> My Tech Stack
+
+## Live Projects :
+
+<table align="center">
+    <tbody>
+            <td align="center" width="150">
+                <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bab0b964-a2d6-4ef3-a15b-3c4671039e91" alt="Flutter" height="60"/>
+                </a>
+                     <p align="center" >Hoxton Capital</p>
+            </td>
+        <td align="center" width="150">
+                <a href="https://play.google.com/store/apps/details?id=com.vizitor.app" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2b30bbbd-cdc0-4d41-a5dc-73ce57737f5f" alt="dart" height="50"/>
+                </a>
+                 <p align="center" >Vizitor</p>
+            </td>
+            <td align="center" width="150">
+                <a href="https://play.google.com/store/apps/details?id=com.vizitor.pass" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/28692673-71c5-4c8d-b9ee-842b16dfd8ed" alt="Bloc" height="50"/>
+                </a>
+                      <p align="center" >Vizitor Pass</p>
+            </td>
+            </td>
+            <td align="center" width="150">
+                <a href="" >
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/38f39c57-edbe-47e3-a431-2590310822cb" alt="HP Pay" height="50"/>
+                </a>
+                      <p align="center" >HP Pay</p>
+            </td>
+     </td>
+            <td align="center" width="150">
+                <a href="" >
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e0b73923-e8df-41e3-8968-304b116b8d77" alt="Find Me" height="50"/>
+                </a>
+                      <p align="center" >Find Me</p>
+            </td>
+    </tbody>
+</table>
+<br>
+
+## Presonal Projects :
+| 💻 **Technology** | 🚀 **Projects** |
+|-|-|
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Notepad](https://img.shields.io/static/v1?label=&message=Notepad&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Notepad.py) [![Tic-Tac-Game](https://img.shields.io/static/v1?label=&message=Tic-Tac-Game&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Tic-Tac.py) [![YouTubeDownloder](https://img.shields.io/static/v1?label=&message=YouTube-Downloder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/YouTubeDownloder.py) [![AudioBook](https://img.shields.io/static/v1?label=&message=Audiobook&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/AudioBook.py) [![WhatsApp-Automate](https://img.shields.io/static/v1?label=&message=WhatsApp-Automate&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/WhatsAppMsg.py) [![GurssTheNumberGame](https://img.shields.io/static/v1?label=&message=Guess-The-Number&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/GuessTheNumber.py) |
+| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Handlebars](https://img.shields.io/static/v1?label=&message=CSS&color=00aced&logo=CSS3&logoColor=FFFFFF)](https://handlebarsjs.com/guide/) [![CSS](https://img.shields.io/static/v1?label=&message=Handlebars&color=8B4513&logo=Handlebars&logoColor=FFFFFF)]() [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square)]() [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square)](https://docs.mongodb.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)| [![ComCod](https://img.shields.io/static/v1?label=&message=ComCod_E-Learning_Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Project-Comcod.git) |
+| [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Resume-Builder](https://img.shields.io/static/v1?label=&message=Resume-Builder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Resume_Builder.git) |
+
+<br>
+
 
 <!--Connects with me-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->

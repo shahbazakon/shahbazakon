@@ -216,6 +216,7 @@
 <!--Connects with me-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px"> Connect with me <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> :
+<br>
 <div align="center">
   <a href="" target="blank">
     <img align="center" alt="Shahbaz's LinkedIn" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
@@ -229,11 +230,16 @@
     <img align="center" alt="Shahbaz's Twitter" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a> 
 </div>
-<br/>
+<br>
+<br>
+
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
 </p>
+<br>
+<br>
 
 <!-- Snake game -->
 <div align="center">

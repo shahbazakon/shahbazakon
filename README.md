@@ -217,19 +217,39 @@
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px"> Connect with me <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> :
 <br>
-<div align="center">
-  <a href="" target="blank">
-    <img align="center" alt="Shahbaz's LinkedIn" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://www.instagram.com/shahbaz_akon/" target="blank">
-    <img align="center" alt="Shahbaz's Instagram" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> 
-  </a>
-  &nbsp; &nbsp;
+<p align="center">
+
   <a href="https://www.facebook.com/shahbazakon.genius/" target="blank">
-    <img align="center" alt="Shahbaz's Twitter" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-  </a> 
-</div>
+    <img align="center" alt="Shahbaz facebook ID " width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a3755719-88bd-471f-8ad3-63bbc0a0c98b"/></a>
+    &nbsp; 
+    <a href="https://www.instagram.com/shahbaz_akon/" target="blank">
+    <img align="center" alt="Shahbaz Instagram ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e8abc256-4b85-4657-bcaa-dea90747f6c5" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/mohd-shahbaz/" target="blank">
+    <img align="center" alt="Shahbaz linkedin ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a28bbe07-5f60-4b47-8927-17ebadc0dc2d" /></a>
+        &nbsp;
+    <a href="https://pin.it/1kJQ2yrp7" target="blank">
+    <img align="center" alt="Shahbaz pinterest ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2b7a65e5-1f31-44fe-81fc-057279731384" /></a>    &nbsp; 
+    <a href="" target="blank">
+    <img align="center" alt="Shahbaz snapchat" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/76e84bca-3e9c-40b7-b330-1ef8b2b9ae00"/></a>    &nbsp; 
+     <a href="" target="blank">
+    <img align="center" alt="Shahbaz slack" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a60fdcd9-14e5-4f21-938c-98cdf57924d5"/></a>    &nbsp; 
+    <a href="" target="blank">
+    <img align="center" alt="Shahbaz telegram ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8c529355-29fc-48fd-b275-f25342155d6b" /></a>    &nbsp; 
+    <a href="" target="blank">
+    <img align="center" alt="Shahbaz whatsapp" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/1c5fe8ad-e3a2-47a1-8b2e-b5c2fe9cc656" /></a>&nbsp; 
+    <a href="" target="blank">
+    <img align="center" alt="Shahbaz google Search" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/7bc404e3-0382-4080-8dde-14630e3584b4" /></a> &nbsp; 
+    <a href="" target="blank">
+    <img align="center" alt="Shahbaz Github ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/5f90c7d9-5163-48c4-b2f9-dee66c8f7c61" /></a>&nbsp; 
+    <a href="" target="blank">
+    <img align="center" alt="Shahbaz discord ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/82933f00-a86f-43a9-8f64-ffa33306c28d" /></a>&nbsp;
+    <a href="" target="blank">
+    <img align="center" alt="Shahbaz zoom ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8620bd58-0b92-4ba1-9fd3-5f7e84f851ef" /></a> 
+  
+</p>
+
+
 <br>
 <br>
 
@@ -253,28 +273,6 @@
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<p align="center">
-
-
-<a href="https://www.linkedin.com/in/mohd-shahbaz"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:shahbazshahzadqureshi@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://github.com/Jaydeep-Yadav"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.snapchat.com/add/badboy5299"><img alt="Bad Boy Snapchat" title="Jaydeep Yadav SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
- <a href="https://facebook.com/killerboy.jy"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-   <a href="https://t.me/jaydeep91"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-   
-![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-</p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
 
 <!--
 <ul>

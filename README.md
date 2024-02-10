@@ -220,39 +220,47 @@
 <p align="center">
 
   <a href="https://www.facebook.com/shahbazakon.genius/" target="blank">
-    <img align="center" alt="Shahbaz facebook ID " width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a3755719-88bd-471f-8ad3-63bbc0a0c98b"/></a>
+    <img align="center" alt="Shahbaz facebook ID " height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a3755719-88bd-471f-8ad3-63bbc0a0c98b"/></a>
     &nbsp; 
     <a href="https://www.instagram.com/shahbaz_akon/" target="blank">
-    <img align="center" alt="Shahbaz Instagram ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e8abc256-4b85-4657-bcaa-dea90747f6c5" /></a>
+    <img align="center" alt="Shahbaz Instagram ID" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e8abc256-4b85-4657-bcaa-dea90747f6c5" /></a>
     &nbsp;
     <a href="https://www.linkedin.com/in/mohd-shahbaz/" target="blank">
-    <img align="center" alt="Shahbaz linkedin ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a28bbe07-5f60-4b47-8927-17ebadc0dc2d" /></a>
+    <img align="center" alt="Shahbaz linkedin ID" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a28bbe07-5f60-4b47-8927-17ebadc0dc2d" /></a>
         &nbsp;
     <a href="https://pin.it/1kJQ2yrp7" target="blank">
-    <img align="center" alt="Shahbaz pinterest ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2b7a65e5-1f31-44fe-81fc-057279731384" /></a>    &nbsp; 
+    <img align="center" alt="Shahbaz pinterest ID" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2b7a65e5-1f31-44fe-81fc-057279731384" /></a>    &nbsp; 
+   <!-- <a href="" target="blank">
+    <img align="center" alt="Shahbaz Slack" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/76e84bca-3e9c-40b7-b330-1ef8b2b9ae00"/></a>    &nbsp;--> 
+     <a href="https://t.me/Shahbaz_Qureshi" target="blank">
+    <img align="center" alt="Shahbaz Telegram" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a60fdcd9-14e5-4f21-938c-98cdf57924d5"/></a>    &nbsp; 
+    <a href="https://www.snapchat.com/add/shahbaz_akon?share_id=pDDv041PoAE&locale=en-US" target="blank">
+    <img align="center" alt="Shahbaz Snapchat ID" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8c529355-29fc-48fd-b275-f25342155d6b" /></a>    &nbsp; 
+    <a href="https://wa.me/qr/NDNPGZ227TM4L1" target="blank">
+    <img align="center" alt="Shahbaz whatsapp" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/1c5fe8ad-e3a2-47a1-8b2e-b5c2fe9cc656" /></a>&nbsp; 
+    <a href="https://www.google.com/search?sca_esv=fea8e79187cfd119&rlz=1C5CHFA_enIN1096IN1096&sxsrf=ACQVn0_Vmx7IFuaaMSJqftOYOVim4E4PHQ:1707590333490&q=shahbaz+akon&tbm=isch&source=lnms&sa=X&ved=2ahUKEwicjP_ZtaGEAxUAbmwGHaFRBQQQ0pQJegQIDRAB&biw=1512&bih=748&dpr=2" target="blank">
+    <img align="center" alt="Shahbaz google Search" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/7bc404e3-0382-4080-8dde-14630e3584b4" /></a> &nbsp; 
+    <a href="https://github.com/shahbazakon" target="blank">
+    <img align="center" alt="Shahbaz Github ID" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/5f90c7d9-5163-48c4-b2f9-dee66c8f7c61" /></a>&nbsp; 
+   <!-- <a href="" target="blank">
+    <img align="center" alt="Shahbaz discord ID" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/82933f00-a86f-43a9-8f64-ffa33306c28d" /></a>&nbsp;
     <a href="" target="blank">
-    <img align="center" alt="Shahbaz snapchat" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/76e84bca-3e9c-40b7-b330-1ef8b2b9ae00"/></a>    &nbsp; 
-     <a href="" target="blank">
-    <img align="center" alt="Shahbaz slack" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/a60fdcd9-14e5-4f21-938c-98cdf57924d5"/></a>    &nbsp; 
-    <a href="" target="blank">
-    <img align="center" alt="Shahbaz telegram ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8c529355-29fc-48fd-b275-f25342155d6b" /></a>    &nbsp; 
-    <a href="" target="blank">
-    <img align="center" alt="Shahbaz whatsapp" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/1c5fe8ad-e3a2-47a1-8b2e-b5c2fe9cc656" /></a>&nbsp; 
-    <a href="" target="blank">
-    <img align="center" alt="Shahbaz google Search" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/7bc404e3-0382-4080-8dde-14630e3584b4" /></a> &nbsp; 
-    <a href="" target="blank">
-    <img align="center" alt="Shahbaz Github ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/5f90c7d9-5163-48c4-b2f9-dee66c8f7c61" /></a>&nbsp; 
-    <a href="" target="blank">
-    <img align="center" alt="Shahbaz discord ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/82933f00-a86f-43a9-8f64-ffa33306c28d" /></a>&nbsp;
-    <a href="" target="blank">
-    <img align="center" alt="Shahbaz zoom ID" width="50px" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8620bd58-0b92-4ba1-9fd3-5f7e84f851ef" /></a> 
-  
+    <img align="center" alt="Shahbaz zoom ID" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8620bd58-0b92-4ba1-9fd3-5f7e84f851ef" /></a> 
+  -->
 </p>
 
 
 <br>
 <br>
 
+
+
+
+![banner](https://github.com/shahbazakon/shahbazakon/assets/57652434/1e74f0c0-4dc6-4088-b10f-015d4b3b8416)
+
+
+<br>
+<br>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
@@ -266,8 +274,6 @@
   
 ![snake gif](https://github.com/shahbazakon/shahbazakon/blob/output/github-contribution-grid-snake.svg)  
 </div>
-
-![banner](https://github.com/shahbazakon/shahbazakon/assets/57652434/1e74f0c0-4dc6-4088-b10f-015d4b3b8416)
 
 
 

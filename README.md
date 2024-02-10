@@ -34,6 +34,7 @@
 <!--Core Skill-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+# <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/86c83f4f-eb0a-40ee-9da9-1c73931cb0b5" height="65px">  Skill Set 
 ## Core Skill <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
 
 <table align="center">
@@ -215,7 +216,7 @@
 
 <!--Connects with me-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-# <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/fafbf8aa-411d-4dd3-bf04-d87560c6c5bc" height="70px"> Connect with me <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> :
+# <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/3aef6398-49ce-4b16-bd71-fcb2d556e522" height="70px"> Connect with me <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> :
 <br>
 <p align="center">
 
@@ -248,14 +249,14 @@
     <img align="center" alt="Shahbaz zoom ID" height="50px" src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8620bd58-0b92-4ba1-9fd3-5f7e84f851ef" /></a> 
   -->
 </p>
-
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br>
 <br>
 
 
 
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![banner](https://github.com/shahbazakon/shahbazakon/assets/57652434/1e74f0c0-4dc6-4088-b10f-015d4b3b8416)
 
 
@@ -265,6 +266,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazakon&theme=radical&line_height=27" alt="shahbazakon" />
+  <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/c2567da6-0c0a-4bce-b2df-9d442e4cfd24" height="180px">
 </p>
 <br>
 <br>
@@ -314,7 +316,6 @@
   <img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </ul>
 -->
-
 <hr>
 
 

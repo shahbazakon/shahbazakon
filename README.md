@@ -13,7 +13,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Sofia+Sans&color=3c4c56&size=40&lines=Syntax+is+the+brush;logic+is+the+art;Code+your+masterpiece;"/>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+ 
 <!--About-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
  # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/de305b15-43b6-4d5f-9a81-867c3e5eff50" height="60px"> About
@@ -31,8 +31,83 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+<!--My Tech Stack-->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+# <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0d9dfde2-ba5e-4bca-95a6-9e31cac85018" height="60px"> My Tech Stack
+
+## Live Projects :
+
+<table align="center">
+    <tbody>
+            <td align="center" width="150">
+                <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bab0b964-a2d6-4ef3-a15b-3c4671039e91" alt="Flutter" height="60"/>
+                </a>
+                     <p align="center" >Hoxton Capital</p>
+            </td>
+        <td align="center" width="150">
+                <a href="https://play.google.com/store/apps/details?id=com.vizitor.app" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2b30bbbd-cdc0-4d41-a5dc-73ce57737f5f" alt="dart" height="50"/>
+                </a>
+                 <p align="center" >Vizitor</p>
+            </td>
+            <td align="center" width="150">
+                <a href="https://play.google.com/store/apps/details?id=com.vizitor.pass" target="_blank">
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/28692673-71c5-4c8d-b9ee-842b16dfd8ed" alt="Bloc" height="50"/>
+                </a>
+                      <p align="center" >Vizitor Pass</p>
+            </td>
+            </td>
+            <td align="center" width="150">
+                <a href="" >
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/38f39c57-edbe-47e3-a431-2590310822cb" alt="HP Pay" height="50"/>
+                </a>
+                      <p align="center" >HP Pay</p>
+            </td>
+     </td>
+            <td align="center" width="150">
+                <a href="" >
+                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e0b73923-e8df-41e3-8968-304b116b8d77" alt="Find Me" height="50"/>
+                </a>
+                      <p align="center" >Find Me</p>
+            </td>
+    </tbody>
+</table>
+<br>
+
+## Presonal Projects :
+| 💻 **Technology** | 🚀 **Projects** |
+|-|-|
+|[![Flutter](https://img.shields.io/badge/flutter-%2340AEF0?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev/) [![Dart](https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white)](https://dart.dev/)|[![Gaming-App](https://img.shields.io/static/v1?label=&message=Gaming-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Cash-King)[![Financial-Tracker](https://img.shields.io/static/v1?label=&message=Financial-Tracker&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Fudge-Financial-Application)[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/portfolio)[![Video-Calling-App](https://img.shields.io/static/v1?label=&message=Video-Calling-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/calling-Room-WebRTC)[![TODO-App](https://img.shields.io/static/v1?label=&message=TODO-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/TODO-Qurinom_solutions) [![Salary-Now](https://img.shields.io/static/v1?label=&message=Salary-Now&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/salary-Now) [![News-App](https://img.shields.io/static/v1?label=&message=News-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Quokka-labs-News)[![Blog-App](https://img.shields.io/static/v1?label=&message=Blog-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Triko-Blog)[![Chat-App](https://img.shields.io/static/v1?label=&message=Chat-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Lifespark-Technologies-ChatApp)[![Locator-App](https://img.shields.io/static/v1?label=&message=Locator-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Location-Picker)[![Taskez](https://img.shields.io/static/v1?label=&message=Teskez-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Taskez)|
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) |[![HackerRank-Problems](https://img.shields.io/badge/Hacker%20Rank%20Problems%20-black?style=flat&logo=Github&logoColor=white)](https://img.shields.io/badge/Hacker%20Rank%20Problems%20-black?style=flat&logo=Github&logoColor=white) [![Notepad](https://img.shields.io/static/v1?label=&message=Notepad&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Notepad.py) [![Tic-Tac-Game](https://img.shields.io/static/v1?label=&message=Tic-Tac-Game&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Tic-Tac.py) [![YouTubeDownloder](https://img.shields.io/static/v1?label=&message=YouTube-Downloder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/YouTubeDownloder.py) [![AudioBook](https://img.shields.io/static/v1?label=&message=Audiobook&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/AudioBook.py) [![WhatsApp-Automate](https://img.shields.io/static/v1?label=&message=WhatsApp-Automate&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/WhatsAppMsg.py) [![GurssTheNumberGame](https://img.shields.io/static/v1?label=&message=Guess-The-Number&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/GuessTheNumber.py) |
+| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Handlebars](https://img.shields.io/static/v1?label=&message=CSS&color=00aced&logo=CSS3&logoColor=FFFFFF)](https://handlebarsjs.com/guide/) [![CSS](https://img.shields.io/static/v1?label=&message=Handlebars&color=8B4513&logo=Handlebars&logoColor=FFFFFF)]() [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square)]() [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square)](https://docs.mongodb.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)| [![ComCod](https://img.shields.io/static/v1?label=&message=ComCod_E-Learning_Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Project-Comcod.git) |
+| [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Scikit%20Learn-%23F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/) | [![Resume-Builder](https://img.shields.io/static/v1?label=&message=Resume-Builder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Resume_Builder.git) |
+
+<br>
+
+
+## ToolKits :
+
+<div align="center">
+  
+<a  href="https://github.com/shahbazakon/Flutter-360-ToolKit-1.0"><img src="https://img.shields.io/badge/1.0-blue?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=%23000000"/></a>
+<a href="https://github.com/shahbazakon/FLutter-360-Toolkit-2.0"><img src="https://img.shields.io/badge/2.0-%232E9FFF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
+<a href="https://github.com/shahbazakon/Flutter-ToolKit-3.0"><img src="https://img.shields.io/badge/3.0-%230080FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
+<a href="https://github.com/shahbazakon/Flutter-ToolKit-4.0"><img src="https://img.shields.io/badge/4.0-%230090FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
+<a href="https://github.com/shahbazakon/Flutter-ToolKit-5.0"><img src="https://img.shields.io/badge/5.0-%240090FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
+
+<a href="https://github.com/shahbazakon/iOS-App-Toolkit"><img src="https://img.shields.io/badge/iOS-%234574E0?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=iOS%20ToolKit&labelColor=black"/></a>
+</div>
+
+
+
 <!--Core Skill-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
 
 # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/86c83f4f-eb0a-40ee-9da9-1c73931cb0b5" height="65px">  Skill Set 
 ## Core Skill <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> :
@@ -47,12 +122,12 @@
             </td>
             <td>
                 <a href="https://dart.dev" target="_blank">
-                    <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="dart" height="30"/>
+                    <img src="https://dart.dev/assets/img/iZel2Nms4j-443.svg" alt="dart" height="30"/>
                 </a>
             </td>
             <td>
                 <a href="https://github.com/felangel/bloc" target="_blank">
-                    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="Bloc" height="45"/>
+                    <img src="https://bloclibrary.dev/_astro/dark-bloc-logo.D-BLnUA2.svg" alt="Bloc" height="45"/>
                 </a>
             </td>
             <td>
@@ -149,73 +224,6 @@
 </table>
 <br>
 
-<!--My Tech Stack-->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-# <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/0d9dfde2-ba5e-4bca-95a6-9e31cac85018" height="60px"> My Tech Stack
-
-## Live Projects :
-
-<table align="center">
-    <tbody>
-            <td align="center" width="150">
-                <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank">
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bab0b964-a2d6-4ef3-a15b-3c4671039e91" alt="Flutter" height="60"/>
-                </a>
-                     <p align="center" >Hoxton Capital</p>
-            </td>
-        <td align="center" width="150">
-                <a href="https://play.google.com/store/apps/details?id=com.vizitor.app" target="_blank">
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/2b30bbbd-cdc0-4d41-a5dc-73ce57737f5f" alt="dart" height="50"/>
-                </a>
-                 <p align="center" >Vizitor</p>
-            </td>
-            <td align="center" width="150">
-                <a href="https://play.google.com/store/apps/details?id=com.vizitor.pass" target="_blank">
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/28692673-71c5-4c8d-b9ee-842b16dfd8ed" alt="Bloc" height="50"/>
-                </a>
-                      <p align="center" >Vizitor Pass</p>
-            </td>
-            </td>
-            <td align="center" width="150">
-                <a href="" >
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/38f39c57-edbe-47e3-a431-2590310822cb" alt="HP Pay" height="50"/>
-                </a>
-                      <p align="center" >HP Pay</p>
-            </td>
-     </td>
-            <td align="center" width="150">
-                <a href="" >
-                    <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e0b73923-e8df-41e3-8968-304b116b8d77" alt="Find Me" height="50"/>
-                </a>
-                      <p align="center" >Find Me</p>
-            </td>
-    </tbody>
-</table>
-<br>
-
-## Presonal Projects :
-| 💻 **Technology** | 🚀 **Projects** |
-|-|-|
-|[![Flutter](https://img.shields.io/badge/flutter-%2340AEF0?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev/) [![Dart](https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white)](https://dart.dev/)|[![Gaming-App](https://img.shields.io/static/v1?label=&message=Gaming-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Cash-King)[![Financial-Tracker](https://img.shields.io/static/v1?label=&message=Financial-Tracker&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Fudge-Financial-Application)[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/portfolio)[![Video-Calling-App](https://img.shields.io/static/v1?label=&message=Video-Calling-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/calling-Room-WebRTC)[![TODO-App](https://img.shields.io/static/v1?label=&message=TODO-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/TODO-Qurinom_solutions) [![Salary-Now](https://img.shields.io/static/v1?label=&message=Salary-Now&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/salary-Now) [![News-App](https://img.shields.io/static/v1?label=&message=News-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Quokka-labs-News)[![Blog-App](https://img.shields.io/static/v1?label=&message=Blog-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Triko-Blog)[![Chat-App](https://img.shields.io/static/v1?label=&message=Chat-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Lifespark-Technologies-ChatApp)[![Locator-App](https://img.shields.io/static/v1?label=&message=Locator-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Location-Picker)[![Taskez](https://img.shields.io/static/v1?label=&message=Teskez-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Taskez)|
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) |[![HackerRank-Problems](https://img.shields.io/badge/Hacker%20Rank%20Problems%20-black?style=flat&logo=Github&logoColor=white)](https://img.shields.io/badge/Hacker%20Rank%20Problems%20-black?style=flat&logo=Github&logoColor=white) [![Notepad](https://img.shields.io/static/v1?label=&message=Notepad&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Notepad.py) [![Tic-Tac-Game](https://img.shields.io/static/v1?label=&message=Tic-Tac-Game&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/Tic-Tac.py) [![YouTubeDownloder](https://img.shields.io/static/v1?label=&message=YouTube-Downloder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/YouTubeDownloder.py) [![AudioBook](https://img.shields.io/static/v1?label=&message=Audiobook&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/AudioBook.py) [![WhatsApp-Automate](https://img.shields.io/static/v1?label=&message=WhatsApp-Automate&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/WhatsAppMsg.py) [![GurssTheNumberGame](https://img.shields.io/static/v1?label=&message=Guess-The-Number&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Mini-Project/blob/main/GuessTheNumber.py) |
-| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Handlebars](https://img.shields.io/static/v1?label=&message=CSS&color=00aced&logo=CSS3&logoColor=FFFFFF)](https://handlebarsjs.com/guide/) [![CSS](https://img.shields.io/static/v1?label=&message=Handlebars&color=8B4513&logo=Handlebars&logoColor=FFFFFF)]() [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square)]() [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square)](https://docs.mongodb.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)| [![ComCod](https://img.shields.io/static/v1?label=&message=ComCod_E-Learning_Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Project-Comcod.git) |
-| [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Scikit%20Learn-%23F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/) | [![Resume-Builder](https://img.shields.io/static/v1?label=&message=Resume-Builder&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shahbazakon/Resume_Builder.git) |
-
-<br>
-
-
-## ToolKits :
-
-<div align="center">
-  
-<a  href="https://github.com/shahbazakon/Flutter-360-ToolKit-1.0"><img src="https://img.shields.io/badge/1.0-blue?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=%23000000"/></a>
-<a href="https://github.com/shahbazakon/FLutter-360-Toolkit-2.0"><img src="https://img.shields.io/badge/2.0-%232E9FFF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
-<a href="https://github.com/shahbazakon/Flutter-ToolKit-3.0"><img src="https://img.shields.io/badge/3.0-%230080FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
-<a href="https://github.com/shahbazakon/Flutter-ToolKit-4.0"><img src="https://img.shields.io/badge/4.0-%230090FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
-<a href="https://github.com/shahbazakon/Flutter-ToolKit-5.0"><img src="https://img.shields.io/badge/5.0-%240090FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
-
-<a href="https://github.com/shahbazakon/iOS-App-Toolkit"><img src="https://img.shields.io/badge/iOS-%234574E0?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=iOS%20ToolKit&labelColor=black"/></a>
-</div>
 
 <!--Connects with me-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -255,11 +263,7 @@
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <br>
-<br>
 
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![banner](https://github.com/shahbazakon/shahbazakon/assets/57652434/1e74f0c0-4dc6-4088-b10f-015d4b3b8416)
 
 

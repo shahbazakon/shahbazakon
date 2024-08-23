@@ -96,7 +96,7 @@
 <a href="https://github.com/shahbazakon/Flutter-ToolKit-3.0"><img src="https://img.shields.io/badge/3.0-%230080FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
 <a href="https://github.com/shahbazakon/Flutter-ToolKit-4.0"><img src="https://img.shields.io/badge/4.0-%230090FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
 <a href="https://github.com/shahbazakon/Flutter-ToolKit-5.0"><img src="https://img.shields.io/badge/5.0-%240090FF?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20ToolKit&labelColor=black"/></a>
-
+<a href="https://github.com/shahbazakon/FlutterResources"><img src="https://img.shields.io/badge/6.0-blue?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=Flutter%20Resources&labelColor=black"/></a>
 <a href="https://github.com/shahbazakon/iOS-App-Toolkit"><img src="https://img.shields.io/badge/iOS-%234574E0?style=for-the-badge&logo=Flutter&logoColor=%23009DC7&label=iOS%20ToolKit&labelColor=black"/></a>
 </div>
 

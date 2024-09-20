@@ -21,7 +21,7 @@
  I am a dedicated **[Flutter developer](https://github.com/flutter/flutter)** with experience in creating robust applications for both **iOS** and **Android** platforms. Proficient in Dart, I have successfully developed a variety of applications, showcasing my commitment to continuous learning. Skilled in managing multiple projects simultaneously, I possess strong analytical and problem-solving abilities, and I can work independently with minimal supervision. My expertise extends to UX/UI design, content creation, and photography.
 
 **Key Points:**
-* ☑️ Experienced Flutter Developer (Android & iOS)
+* ☑️ Experienced [Flutter](https://github.com/topics/flutter) Developer (Android & iOS)
 * ☑ Proficient in Dart, Firebase, and various technologies
 * ☑ Skilled in managing multiple projects with strong problem-solving abilities
 * ☑ Background in UX/UI design, content creation, and photography

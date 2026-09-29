@@ -50,68 +50,63 @@ I lead fintech, IoT and social-edutech products from architecture to store relea
   <tbody>
     <tr>
       <td width="45%"></td>
-      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2021-F5A623?style=for-the-badge" alt="2021"><br>│<br>│<br>▼</td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2021-F5A623?style=for-the-badge" alt="2021"><br>│<br>▼</td>
       <td align="left" valign="top" width="45%">
-        <a href="https://www.linkedin.com/company/viithiisys-technologies/posts/?feedView=all" target="_blank"><img src="assets/logos/viithiisys.png" alt="Viithiisys Technologies" height="64"></a><br>
-        <a href="https://www.linkedin.com/company/viithiisys-technologies/posts/?feedView=all" target="_blank"><b>Viithiisys Technologies</b></a><br>
-        <b>Flutter Developer</b><br>
+        <a href="https://www.linkedin.com/company/viithiisys-technologies/posts/?feedView=all" target="_blank"><img src="assets/logos/viithiisys.png" alt="Viithiisys" height="56"></a><br>
+        <a href="https://www.linkedin.com/company/viithiisys-technologies/posts/?feedView=all" target="_blank"><b>Viithiisys</b></a> · Flutter Developer<br>
         <sub>📅 Mar 2021 – Jan 2023 · Chandigarh</sub><br>
-        <sub>Fintech and visitor-management apps under high user load. Ran unit testing and code reviews, mentored junior developers and led feature delivery cycles.</sub><br>
-        <sub>🛠️ Flutter · GraphQL · REST · Firebase</sub>
+        <sub>Fintech & visitor-management apps · code reviews · mentoring</sub><br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"> <img src="https://img.shields.io/badge/REST-009688?style=flat-square" alt="REST"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
       </td>
     </tr>
     <tr>
       <td align="right" valign="top" width="45%">
-        <a href="https://www.linkedin.com/company/hoxtonwealth/posts/" target="_blank"><img src="assets/logos/hoxton.png" alt="Hoxton Capital Management" height="64"></a><br>
-        <a href="https://www.linkedin.com/company/hoxtonwealth/posts/" target="_blank"><b>Hoxton Capital Management</b></a><br>
-        <b>Mobile Application Developer</b><br>
+        <a href="https://www.linkedin.com/company/hoxtonwealth/posts/" target="_blank"><img src="assets/logos/hoxton.png" alt="Hoxton Capital" height="56"></a><br>
+        <a href="https://www.linkedin.com/company/hoxtonwealth/posts/" target="_blank"><b>Hoxton Capital</b></a> · Mobile App Developer<br>
         <sub>📅 Jan 2023 – Nov 2023 · Dubai</sub><br>
-        <sub>Fintech product with real-time data and analytics. Cut load times by 15% and reached 98% client satisfaction with cross-functional teams.</sub><br>
-        <sub>🛠️ Flutter · Syncfusion · Firebase · Clean architecture</sub>
+        <sub>Real-time fintech analytics · +15% perf · 98% satisfaction</sub><br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/Syncfusion-FF4081?style=flat-square" alt="Syncfusion"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"> <img src="https://img.shields.io/badge/Clean_Arch-0969DA?style=flat-square" alt="Clean Arch">
       </td>
-      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2023-E8604C?style=for-the-badge" alt="2023"><br>│<br>│<br>▼</td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2023-E8604C?style=for-the-badge" alt="2023"><br>│<br>▼</td>
       <td width="45%"></td>
     </tr>
     <tr>
       <td width="45%"></td>
-      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2023-4FB3BF?style=for-the-badge" alt="2023"><br>│<br>│<br>▼</td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2023-4FB3BF?style=for-the-badge" alt="2023"><br>│<br>▼</td>
       <td align="left" valign="top" width="45%">
-        <a href="https://www.linkedin.com/company/shoshintech/posts/?feedView=all" target="_blank"><img src="assets/logos/shoshin.png" alt="Shoshin Tech" height="64"></a><br>
-        <a href="https://www.linkedin.com/company/shoshintech/posts/?feedView=all" target="_blank"><b>Shoshin Tech</b></a><br>
-        <b>Senior Flutter Developer</b><br>
+        <a href="https://www.linkedin.com/company/shoshintech/posts/?feedView=all" target="_blank"><img src="assets/logos/shoshin.png" alt="Shoshin Tech" height="56"></a><br>
+        <a href="https://www.linkedin.com/company/shoshintech/posts/?feedView=all" target="_blank"><b>Shoshin Tech</b></a> · Senior Flutter Developer<br>
         <sub>📅 Dec 2023 – May 2025 · Hyderabad</sub><br>
-        <sub>Led a social-edutech app from scratch: chat, video calls, deep linking and screen tracking. Managed 50+ dependencies with performance tuning.</sub><br>
-        <sub>🛠️ Flutter · BLoC · TDD · Clean architecture</sub>
+        <sub>Social-edutech app · chat · video calls · deep linking</sub><br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/BLoC-2C2C2C?style=flat-square" alt="BLoC"> <img src="https://img.shields.io/badge/TDD-2EA043?style=flat-square" alt="TDD"> <img src="https://img.shields.io/badge/Deep_links-555555?style=flat-square" alt="Deep links">
       </td>
     </tr>
     <tr>
       <td align="right" valign="top" width="45%">
-        <a href="https://github.com/shahbazakon" target="_blank"><img src="assets/logos/errorxperts.svg" alt="ErrorXperts" height="64"></a><br>
-        <a href="https://github.com/shahbazakon" target="_blank"><b>ErrorXperts</b></a><br>
-        <b>Founder</b><br>
+        <a href="https://www.linkedin.com/company/errorxperts/posts/?feedView=all" target="_blank"><img src="assets/logos/errorxperts.png" alt="ErrorXperts" height="56"></a><br>
+        <a href="https://www.linkedin.com/company/errorxperts/posts/?feedView=all" target="_blank"><b>ErrorXperts</b></a> · Founder<br>
         <sub>📅 Sep 2024 – Present · Khatauli</sub><br>
-        <sub>Full-cycle Flutter delivery for multiple clients across IoT, fintech and social media, including golf analytics built on proprietary sensor SDKs.</sub><br>
-        <sub>🛠️ Flutter · IoT SDKs · State management · TDD</sub>
+        <sub>End-to-end Flutter delivery for IoT, fintech & social clients</sub><br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/IoT_SDKs-6F42C1?style=flat-square" alt="IoT SDKs"> <img src="https://img.shields.io/badge/State_mgmt-8250DF?style=flat-square" alt="State mgmt"> <img src="https://img.shields.io/badge/TDD-2EA043?style=flat-square" alt="TDD">
       </td>
-      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2024-4A90E2?style=for-the-badge" alt="2024"><br>│<br>│<br>▼</td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2024-4A90E2?style=for-the-badge" alt="2024"><br>│<br>▼</td>
       <td width="45%"></td>
     </tr>
     <tr>
       <td width="45%"></td>
-      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2025-7B6FB0?style=for-the-badge" alt="2025"><br>│<br>│<br>▼</td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2025-7B6FB0?style=for-the-badge" alt="2025"><br>│<br>▼</td>
       <td align="left" valign="top" width="45%">
-        <a href="https://www.linkedin.com/company/i-can-heal/posts/?feedView=all" target="_blank"><img src="assets/logos/icanheal.png" alt="iCanHeal" height="64"></a><br>
-        <a href="https://www.linkedin.com/company/i-can-heal/posts/?feedView=all" target="_blank"><b>iCanHeal</b></a><br>
-        <b>Senior Flutter Developer</b><br>
+        <a href="https://www.linkedin.com/company/i-can-heal/posts/?feedView=all" target="_blank"><img src="assets/logos/icanheal.png" alt="iCanHeal" height="56"></a><br>
+        <a href="https://www.linkedin.com/company/i-can-heal/posts/?feedView=all" target="_blank"><b>iCanHeal</b></a> · Senior Flutter Developer<br>
         <sub>📅 Jun 2025 – Present · Mumbai</sub><br>
-        <sub>Senior Flutter Developer on the icanheal Finance & Support app, live on Google Play and the App Store.</sub><br>
-        <sub>🛠️ Flutter · iOS · Android · Fintech</sub>
+        <sub>icanheal Finance & Support app · live on Play & App Store</sub><br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android"> <img src="https://img.shields.io/badge/Fintech-B08D00?style=flat-square" alt="Fintech">
       </td>
     </tr>
     <tr>
       <td width="45%"></td>
       <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/Present-2EA043?style=for-the-badge" alt="Present"></td>
-      <td align="left" valign="top" width="45%"><sub>🚀 <b>5+ years</b> of shipping Flutter apps for iOS and Android</sub></td>
+      <td align="left" valign="top" width="45%"><sub>🚀 <b>5+ years</b> shipping Flutter apps for iOS & Android</sub></td>
     </tr>
   </tbody>
 </table>
@@ -125,7 +120,7 @@ I lead fintech, IoT and social-edutech products from architecture to store relea
 </details>
 
 <details open>
-<summary><img src="assets/logos/errorxperts.svg" alt="" height="20" align="top"> <b>🚀 ErrorXperts</b> · Founder · <i>Sep 2024 – Present</i> · Khatauli, Uttar Pradesh</summary>
+<summary><img src="assets/logos/errorxperts.png" alt="" height="20" align="top"> <b>🚀 ErrorXperts</b> · Founder · <i>Sep 2024 – Present</i> · Khatauli, Uttar Pradesh</summary>
 
 Full-cycle Flutter development for multiple clients across IoT, fintech and social media:
 * Built IoT-based golf analytics applications using proprietary sensor SDKs.
@@ -259,10 +254,10 @@ Fintech and visitor-management projects with high user load:
 <p align="center">
   <a href="https://flutter.dev/" target="_blank" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="48"></a>&nbsp;
   <a href="https://dart.dev/" target="_blank" title="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="48"></a>&nbsp;
-  <a href="https://bloclibrary.dev/" target="_blank" title="BLoC"><img src="https://bloclibrary.dev/_astro/dark-bloc-logo.D-BLnUA2.svg" alt="BLoC" height="48"></a>&nbsp;
-  <a href="https://riverpod.dev/" target="_blank" title="Riverpod"><img src="https://riverpod.dev/img/full_logo.svg" alt="Riverpod" height="36"></a>&nbsp;
-  <a href="https://pub.dev/" target="_blank" title="pub.dev"><img src="https://pub.dev/static/hash-395ejna4/img/pub-dev-logo.svg" alt="pub.dev" height="36"></a>&nbsp;
-  <a href="https://www.syncfusion.com/flutter-widgets" target="_blank" title="Syncfusion"><img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/df16f757-1f18-4417-ba46-bcff1172a778" alt="Syncfusion" height="48"></a>
+  <a href="https://bloclibrary.dev/" target="_blank" title="BLoC"><img src="assets/icons/bloc.svg" alt="BLoC" height="48"></a>&nbsp;
+  <a href="https://riverpod.dev/" target="_blank" title="Riverpod"><img src="assets/icons/riverpod.svg" alt="Riverpod" height="48"></a>&nbsp;
+  <a href="https://pub.dev/" target="_blank" title="pub.dev"><img src="assets/icons/pubdev.svg" alt="pub.dev" height="48"></a>&nbsp;
+  <a href="https://www.syncfusion.com/flutter-widgets" target="_blank" title="Syncfusion"><img src="assets/icons/syncfusion.svg" alt="Syncfusion" height="48"></a>
 </p>
 <br>
 

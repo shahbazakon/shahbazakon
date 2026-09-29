@@ -33,10 +33,7 @@ I lead fintech, IoT and social-edutech products from architecture to store relea
 * ⚡ Fun fact: **"If I can think, I can do... no matter if it's possible or not."**
 
 <p align="center">
-  <a href="mailto:mohdshahbaz.work@gmail.com"><img src="https://img.shields.io/badge/Email-mohdshahbaz.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mohdshahbaz/"><img src="https://img.shields.io/badge/LinkedIn-mohdshahbaz-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://github.com/shahbazakon"><img src="https://img.shields.io/badge/GitHub-shahbazakon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.hackerrank.com/profile/Shahbaz_Akon"><img src="https://img.shields.io/badge/HackerRank-Shahbaz__Akon-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
+  📩 &nbsp;<b>Let's build something together:</b> &nbsp;<a href="mailto:mohdshahbaz.work@gmail.com"><b>mohdshahbaz.work@gmail.com</b></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
@@ -46,48 +43,89 @@ I lead fintech, IoT and social-edutech products from architecture to store relea
 <!-- ============================================================================================================ -->
 # <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/278ed41b-2763-4b72-9f0b-6fc4d8ecba79" alt="Experience" height="60"> Experience
 
-## Career Map <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="" width="25"> :
+## Career Timeline <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="" width="25"> :
 
-```mermaid
-%% Branches read clockwise from the top-right, oldest role first.
-mindmap
-  root((5+ Years<br/>2021 → Present))
-    2021 – 2023
-      🏢 Viithiisys<br/>Flutter Developer
-        GraphQL · REST · Firebase
-        Fintech · Visitor management
-        Unit testing · Mentoring
-    2023
-      💰 Hoxton Capital<br/>Mobile App Developer
-        Syncfusion · Firebase
-        +15% performance
-        98% client satisfaction
-    2023 – 2025
-      🎓 Shoshin Tech<br/>Senior Flutter Developer
-        Chat · Video call · Deep linking
-        BLoC · TDD
-        50+ dependencies
-    2024 – Present
-      🚀 ErrorXperts<br/>Founder
-        IoT golf analytics
-        Fintech · Social media
-        TDD · Clean architecture
-    2025 – Present
-      🏥 iCanHeal<br/>Senior Flutter Developer
-        Finance & support app
-        Flutter · iOS · Android
-```
+<!-- Vertical timeline: coloured year markers form the spine, roles alternate left/right, logos link to the company's LinkedIn page. -->
+<table align="center" width="100%">
+  <tbody>
+    <tr>
+      <td width="45%"></td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2021-F5A623?style=for-the-badge" alt="2021"><br>│<br>│<br>▼</td>
+      <td align="left" valign="top" width="45%">
+        <a href="https://www.linkedin.com/company/viithiisys-technologies/posts/?feedView=all" target="_blank"><img src="assets/logos/viithiisys.png" alt="Viithiisys Technologies" height="64"></a><br>
+        <a href="https://www.linkedin.com/company/viithiisys-technologies/posts/?feedView=all" target="_blank"><b>Viithiisys Technologies</b></a><br>
+        <b>Flutter Developer</b><br>
+        <sub>📅 Mar 2021 – Jan 2023 · Chandigarh</sub><br>
+        <sub>Fintech and visitor-management apps under high user load. Ran unit testing and code reviews, mentored junior developers and led feature delivery cycles.</sub><br>
+        <sub>🛠️ Flutter · GraphQL · REST · Firebase</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="top" width="45%">
+        <a href="https://www.linkedin.com/company/hoxtonwealth/posts/" target="_blank"><img src="assets/logos/hoxton.png" alt="Hoxton Capital Management" height="64"></a><br>
+        <a href="https://www.linkedin.com/company/hoxtonwealth/posts/" target="_blank"><b>Hoxton Capital Management</b></a><br>
+        <b>Mobile Application Developer</b><br>
+        <sub>📅 Jan 2023 – Nov 2023 · Dubai</sub><br>
+        <sub>Fintech product with real-time data and analytics. Cut load times by 15% and reached 98% client satisfaction with cross-functional teams.</sub><br>
+        <sub>🛠️ Flutter · Syncfusion · Firebase · Clean architecture</sub>
+      </td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2023-E8604C?style=for-the-badge" alt="2023"><br>│<br>│<br>▼</td>
+      <td width="45%"></td>
+    </tr>
+    <tr>
+      <td width="45%"></td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2023-4FB3BF?style=for-the-badge" alt="2023"><br>│<br>│<br>▼</td>
+      <td align="left" valign="top" width="45%">
+        <a href="https://www.linkedin.com/company/shoshintech/posts/?feedView=all" target="_blank"><img src="assets/logos/shoshin.png" alt="Shoshin Tech" height="64"></a><br>
+        <a href="https://www.linkedin.com/company/shoshintech/posts/?feedView=all" target="_blank"><b>Shoshin Tech</b></a><br>
+        <b>Senior Flutter Developer</b><br>
+        <sub>📅 Dec 2023 – May 2025 · Hyderabad</sub><br>
+        <sub>Led a social-edutech app from scratch: chat, video calls, deep linking and screen tracking. Managed 50+ dependencies with performance tuning.</sub><br>
+        <sub>🛠️ Flutter · BLoC · TDD · Clean architecture</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="top" width="45%">
+        <a href="https://github.com/shahbazakon" target="_blank"><img src="assets/logos/errorxperts.svg" alt="ErrorXperts" height="64"></a><br>
+        <a href="https://github.com/shahbazakon" target="_blank"><b>ErrorXperts</b></a><br>
+        <b>Founder</b><br>
+        <sub>📅 Sep 2024 – Present · Khatauli</sub><br>
+        <sub>Full-cycle Flutter delivery for multiple clients across IoT, fintech and social media, including golf analytics built on proprietary sensor SDKs.</sub><br>
+        <sub>🛠️ Flutter · IoT SDKs · State management · TDD</sub>
+      </td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2024-4A90E2?style=for-the-badge" alt="2024"><br>│<br>│<br>▼</td>
+      <td width="45%"></td>
+    </tr>
+    <tr>
+      <td width="45%"></td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/2025-7B6FB0?style=for-the-badge" alt="2025"><br>│<br>│<br>▼</td>
+      <td align="left" valign="top" width="45%">
+        <a href="https://www.linkedin.com/company/i-can-heal/posts/?feedView=all" target="_blank"><img src="assets/logos/icanheal.png" alt="iCanHeal" height="64"></a><br>
+        <a href="https://www.linkedin.com/company/i-can-heal/posts/?feedView=all" target="_blank"><b>iCanHeal</b></a><br>
+        <b>Senior Flutter Developer</b><br>
+        <sub>📅 Jun 2025 – Present · Mumbai</sub><br>
+        <sub>Senior Flutter Developer on the icanheal Finance & Support app, live on Google Play and the App Store.</sub><br>
+        <sub>🛠️ Flutter · iOS · Android · Fintech</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="45%"></td>
+      <td align="center" valign="top" width="10%"><img src="https://img.shields.io/badge/Present-2EA043?style=for-the-badge" alt="Present"></td>
+      <td align="left" valign="top" width="45%"><sub>🚀 <b>5+ years</b> of shipping Flutter apps for iOS and Android</sub></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Details <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="" width="25"> :
 
 <details open>
-<summary><b>🏥 iCanHeal</b> · Senior Flutter Developer · <i>Jun 2025 – Present</i> · Mumbai</summary>
+<summary><img src="assets/logos/icanheal.png" alt="" height="20" align="top"> <b>🏥 iCanHeal</b> · Senior Flutter Developer · <i>Jun 2025 – Present</i> · Mumbai</summary>
 
 * Senior Flutter Developer on the [icanheal: Finance & Support](https://play.google.com/store/apps/details?id=com.rxcs.icanheal) app, live on [Google Play](https://play.google.com/store/apps/details?id=com.rxcs.icanheal) and the [App Store](https://apps.apple.com/in/app/icanheal-finance-support/id6747173988).
 </details>
 
 <details open>
-<summary><b>🚀 ErrorXperts</b> · Founder · <i>Sep 2024 – Present</i> · Khatauli, Uttar Pradesh</summary>
+<summary><img src="assets/logos/errorxperts.svg" alt="" height="20" align="top"> <b>🚀 ErrorXperts</b> · Founder · <i>Sep 2024 – Present</i> · Khatauli, Uttar Pradesh</summary>
 
 Full-cycle Flutter development for multiple clients across IoT, fintech and social media:
 * Built IoT-based golf analytics applications using proprietary sensor SDKs.
@@ -96,7 +134,7 @@ Full-cycle Flutter development for multiple clients across IoT, fintech and soci
 </details>
 
 <details>
-<summary><b>🎓 Shoshin Tech</b> · Senior Flutter Developer · <i>Dec 2023 – May 2025</i> · Hyderabad, Telangana</summary>
+<summary><img src="assets/logos/shoshin.png" alt="" height="20" align="top"> <b>🎓 Shoshin Tech</b> · Senior Flutter Developer · <i>Dec 2023 – May 2025</i> · Hyderabad, Telangana</summary>
 
 Led development of a social-edutech app from scratch using clean architecture and scalable Flutter code:
 * Designed and implemented chat, video call, deep linking and screen tracking features.
@@ -105,7 +143,7 @@ Led development of a social-edutech app from scratch using clean architecture an
 </details>
 
 <details>
-<summary><b>💰 Hoxton Capital Management</b> · Mobile Application Developer · <i>Jan 2023 – Nov 2023</i> · Dubai, UAE</summary>
+<summary><img src="assets/logos/hoxton.png" alt="" height="20" align="top"> <b>💰 Hoxton Capital Management</b> · Mobile Application Developer · <i>Jan 2023 – Nov 2023</i> · Dubai, UAE</summary>
 
 Fintech product development with real-time data and analytics:
 * Engineered financial modules using [Syncfusion](https://www.syncfusion.com/flutter-widgets) and [Firebase](https://firebase.google.com/) for dynamic insights.
@@ -114,7 +152,7 @@ Fintech product development with real-time data and analytics:
 </details>
 
 <details>
-<summary><b>🏢 Viithiisys Technologies</b> · Flutter Developer · <i>Mar 2021 – Jan 2023</i> · Chandigarh</summary>
+<summary><img src="assets/logos/viithiisys.png" alt="" height="20" align="top"> <b>🏢 Viithiisys Technologies</b> · Flutter Developer · <i>Mar 2021 – Jan 2023</i> · Chandigarh</summary>
 
 Fintech and visitor-management projects with high user load:
 * Built new app modules using [GraphQL](https://graphql.org/), REST APIs and [Firebase](https://firebase.google.com/).
@@ -144,13 +182,13 @@ Fintech and visitor-management projects with high user load:
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.rxcs.icanheal" target="_blank"><img src="https://play-lh.googleusercontent.com/rAo82gm8K2iimT4ss54oHWunZV5l6dVP5Xnli0VgOil7Q4wEJoU9o8IEn2nMj78JMLqLQ9hV6pdjyzn6xMon=w480-h960-rw" alt="iCanHeal" height="72"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.rxcs.icanheal" target="_blank"><img src="assets/apps/icanheal.png" alt="iCanHeal" height="72"></a>
         <p align="center"><b>iCanHeal</b></p>
         <a href="https://play.google.com/store/apps/details?id=com.rxcs.icanheal" target="_blank"><img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a>
         <a href="https://apps.apple.com/in/app/icanheal-finance-support/id6747173988" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"></a>
       </td>
       <td align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank"><img src="https://play-lh.googleusercontent.com/oKLrb6joo7Dj3MxVxcZTDBWQqFUjmcrCjFdbx-URUbPQsEeSaGYD4C3mA3BhEBSKL_ZKGrAtw0gDUb6kJo_u7w=w480-h960-rw" alt="Hoxton Capital" height="72"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank"><img src="assets/apps/hoxton.png" alt="Hoxton Capital" height="72"></a>
         <p align="center"><b>Hoxton Capital</b></p>
         <a href="https://play.google.com/store/apps/details?id=com.hoxtoncapital.hoxtoncapital" target="_blank"><img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a>
         <a href="https://apps.apple.com/in/app/hoxton-wealth/id1542197648" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"></a>
@@ -175,8 +213,9 @@ Fintech and visitor-management projects with high user load:
         <a href="https://play.google.com/store/apps/details?id=com.drivetrackplusrefuel&hl=en_IN" target="_blank"><img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a>
       </td>
       <td align="center">
-        <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e0b73923-e8df-41e3-8968-304b116b8d77" alt="Find Me" height="72">
-        <p align="center"><b>Find Me</b></p>
+        <a href="https://play.google.com/store/apps/details?id=com.blastmotion.sport.golf&hl=en_IN" target="_blank"><img src="assets/apps/blast.png" alt="Blast Golf" height="72"></a>
+        <p align="center"><b>Blast Golf</b></p>
+        <a href="https://play.google.com/store/apps/details?id=com.blastmotion.sport.golf&hl=en_IN" target="_blank"><img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a>
       </td>
     </tr>
   </tbody>
@@ -370,6 +409,7 @@ Fintech and visitor-management projects with high user load:
   28<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/d2d976e9-56b5-4d04-90d2-7ca843ed6eac" height="100px">
   29<img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/8a7d8c04-375d-4260-ab00-e16d9ee198af" height="100px">
   <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/bab0b964-a2d6-4ef3-a15b-3c4671039e91" height="100px">
+  <img src="https://github.com/shahbazakon/shahbazakon/assets/57652434/e0b73923-e8df-41e3-8968-304b116b8d77" height="100px">
   <img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
 </ul>
 -->
